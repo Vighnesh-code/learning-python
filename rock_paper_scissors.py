@@ -45,7 +45,7 @@ if (computer_input == 0):
       (_____)
       (_____)
       (____)
----.__(___)
+---.__(___)\n
 """)
 elif (computer_input == 1):
     print("""
@@ -88,7 +88,6 @@ elif (user_input == 1 and computer_input == 0):
 |___, ||     ||  :  |    |  `  '  ||     ||  |  |
 |     ||     ||     |     \      / |     ||  |  |
 |____/  \___/  \__,_|      \_/\_/   \___/ |__|__|
-
 ''')
 
 elif (user_input == 2 and computer_input == 0):
