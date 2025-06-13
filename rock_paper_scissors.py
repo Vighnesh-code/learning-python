@@ -46,6 +46,7 @@ if (computer_input == 0):
       (_____)
       (____)
 ---.__(___)\n
+
 """)
 elif (computer_input == 1):
     print("""
