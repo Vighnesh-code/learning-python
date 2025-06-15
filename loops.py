@@ -32,6 +32,6 @@ student_scores = [100, 124, 165, 173, 189, 169, 146]
 sum = 0
 
 for number in range(1, 101):
-    sum+=number
+    sum += number
 
 print(sum)
